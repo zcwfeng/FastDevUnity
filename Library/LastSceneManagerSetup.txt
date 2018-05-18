@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/StrangeIoC/examples/Assets/scenes/signalsproject/TestSignalsView.unity
+  isLoaded: 1
+  isActive: 1
